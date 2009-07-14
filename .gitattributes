@@ -3,4 +3,5 @@
 /README -text
 /apertium-ru-cu.cu.dix -text
 /apertium-ru-cu.ru.dix -text
+dev/masc_hard_substantives.txt -text
 dev/static_rules -text
